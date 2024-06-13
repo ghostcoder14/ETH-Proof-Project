@@ -80,7 +80,7 @@ contract MyToken {
 
 ## Authors
 
-Ishan Ojha  
+Aakash Ojha  
 [@Aakash Ojha](https://oaakash14@gmail.com)
 
 ## License
